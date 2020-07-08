@@ -10,6 +10,7 @@ let heart=document.querySelectorAll(".heart")
 const whiteHeart = '\u2661';
 const blackHeart = '\u2665';
 let button = document.querySelectorAll('.heart');
+let phone=document.getElementsByClassName("card-img-top")
 
 
 var somme=[0,0,0],tot=0

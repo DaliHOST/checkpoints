@@ -16,12 +16,13 @@ h1{
     margin: 2%; 
 }
 
-.heart{
+.heart,.heart:focus{
     font-size: 30px;
     color: red;
     background: none;
     border: none;
     size: 5px;
+    outline: none;
 }
 
 .items{
